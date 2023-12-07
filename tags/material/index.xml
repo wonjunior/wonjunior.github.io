@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Papers on Ivan Lopes</title>
-    <link>https://wonjunior.github.io/papers/</link>
-    <description>Recent content in Papers on Ivan Lopes</description>
+    <title>material on Ivan Lopes</title>
+    <link>https://wonjunior.github.io/tags/material/</link>
+    <description>Recent content in material on Ivan Lopes</description>
     <image>
       <url>https://wonjunior.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
       <link>https://wonjunior.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Thu, 07 Dec 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://wonjunior.github.io/papers/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 07 Dec 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://wonjunior.github.io/tags/material/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Material Palette: Extraction of Materials from a Single Image 🎨</title>
       <link>https://wonjunior.github.io/papers/matpal/</link>
@@ -18,16 +18,6 @@
       <guid>https://wonjunior.github.io/papers/matpal/</guid>
       <description>Authors: Ivan Lopes (Inria), Fabio Pizzati (Oxford), Raoul de Charette (Inria) Page | arXiv | Github | Dataset (soon)
 Abstract: In this paper, we propose a method to extract Physically-Based-Rendering (PBR) materials from a single real-world image. We do so in two steps: first, we map regions of the image to material concepts using a diffusion model, which allows the sampling of texture images resembling each material in the scene. Second, we benefit from a separate network to decompose the generated textures into Spatially Varying BRDFs (SVBRDFs), providing us with materials ready to be used in rendering applications.</description>
-    </item>
-    
-    <item>
-      <title>Cross-task Attention Mechanism for Dense Multi-Task Learning, WACV&#39;23</title>
-      <link>https://wonjunior.github.io/papers/densemtl/</link>
-      <pubDate>Sun, 19 Jun 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://wonjunior.github.io/papers/densemtl/</guid>
-      <description>Authors: Ivan Lopes (Inria), Tuan-Hung Vu (Valeo.ai), Raoul de Charette (Inria) CVF | arXiv | Github
-Abstract: Multi-task learning has recently become a promising solution for a comprehensive understanding of complex scenes. Not only being memory-efficient, multi-task models with an appropriate design can favor exchange of complementary signals across tasks. In this work, we jointly address 2D semantic segmentation, and two geometry-related tasks, namely dense depth, surface normal estimation as well as edge estimation showing their benefit on indoor and outdoor datasets.</description>
     </item>
     
   </channel>

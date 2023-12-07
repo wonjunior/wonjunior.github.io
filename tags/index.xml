@@ -9,7 +9,43 @@
       <link>https://wonjunior.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sun, 19 Jun 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://wonjunior.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 07 Dec 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://wonjunior.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>brdf</title>
+      <link>https://wonjunior.github.io/tags/brdf/</link>
+      <pubDate>Thu, 07 Dec 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://wonjunior.github.io/tags/brdf/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>diffusion</title>
+      <link>https://wonjunior.github.io/tags/diffusion/</link>
+      <pubDate>Thu, 07 Dec 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://wonjunior.github.io/tags/diffusion/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>material</title>
+      <link>https://wonjunior.github.io/tags/material/</link>
+      <pubDate>Thu, 07 Dec 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://wonjunior.github.io/tags/material/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>rendering</title>
+      <link>https://wonjunior.github.io/tags/rendering/</link>
+      <pubDate>Thu, 07 Dec 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://wonjunior.github.io/tags/rendering/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>attention</title>
       <link>https://wonjunior.github.io/tags/attention/</link>
