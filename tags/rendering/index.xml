@@ -11,13 +11,13 @@
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Thu, 07 Dec 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://wonjunior.github.io/tags/rendering/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Material Palette: Extraction of Materials from a Single Image 🎨</title>
+      <title>Material Palette: Extraction of Materials from a Single Image, CVPR&#39;24</title>
       <link>https://wonjunior.github.io/papers/matpal/</link>
       <pubDate>Thu, 07 Dec 2023 00:00:00 +0000</pubDate>
       
       <guid>https://wonjunior.github.io/papers/matpal/</guid>
-      <description>Authors: Ivan Lopes (Inria), Fabio Pizzati (Oxford), Raoul de Charette (Inria) Page | arXiv | Github | Dataset (soon)
-Abstract: In this paper, we propose a method to extract Physically-Based-Rendering (PBR) materials from a single real-world image. We do so in two steps: first, we map regions of the image to material concepts using a diffusion model, which allows the sampling of texture images resembling each material in the scene. Second, we benefit from a separate network to decompose the generated textures into Spatially Varying BRDFs (SVBRDFs), providing us with materials ready to be used in rendering applications.</description>
+      <description>Authors: Ivan Lopes (Inria), Fabio Pizzati (Oxford Uni.), Raoul de Charette (Inria) Page | arXiv | Github | Dataset (soon)
+Abstract: In this paper, we propose a method to extract Physically-Based-Rendering (PBR) materials from a single real-world image. We do so in two steps: first, we map regions of the image to material concepts using a diffusion model, which allows the sampling of texture images resembling each material in the scene.</description>
     </item>
     
   </channel>
