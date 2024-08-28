@@ -1,0 +1,86 @@
+body {
+    font-family: "Noto Sans", sans-serif;
+}
+.title {
+    font-family: "Noto Sans", sans-serif;
+    font-weight: 700;
+}
+.portrait {
+    border-radius: 50%;
+    overflow: hidden;
+}
+.portrait img {
+    /* transform: scale(1.06); */
+    transform: scale(1.09);
+}
+.footer .footer-links a {
+    font-size: 25px;
+    color: #000;
+}
+.publication-block .publication-title {
+    width: fit-content;
+    margin: 0 !important;
+    font-weight: 600;
+    font-size: 110% !important;
+}
+.publication-block .publication-title a {
+    color: #000;
+}
+.publication-block .publication-venue {
+    color: #555;
+    width: fit-content;
+    margin-top: 0;
+}
+.publication-block .publication-venue-emph {
+    font-style: normal;
+    font-size: 80%;
+    font-weight: 500;
+    color: firebrick;
+    padding-left: 0.25em;
+}
+.publication-block .publication-awards {
+    color: firebrick;
+    width: fit-content;
+    font-weight: bolder;
+}
+.publication-block .publication-authors .author-me {
+    color: #000;
+    font-weight: 600;
+}
+.publication-block .publication-authors a {
+    color: #000 !important;
+}
+.publication-block .publication-authors a:hover {
+    text-decoration: underline;
+}
+.publication-block .publication-image {
+    border-radius: 2%;
+    width: 100%;
+    height: 100%;
+    overflow: hidden;
+    font-size: 0;
+}
+.publication-block .publication-image img {
+    width: 100%;
+}
+.publication-block .publication-mousecell {
+    position: relative;
+    font-size: 0;
+}
+.publication-block .publication-mousecell {
+    width: 100%;
+    height: 100%;
+    display: inline-block;
+    overflow: hidden;
+}
+.publication-block .publication-mousecell video {
+    display: none;
+}
+.publication-block .publication-description {
+    color: #333;
+    margin: 0.5em 0;
+}
+.publication-block .publication-links {
+    margin: 0 !important;
+    margin-top: 0.5em !important;
+}
